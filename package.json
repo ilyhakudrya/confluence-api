@@ -1,5 +1,5 @@
 {
-  "name": "confluence-api",
+  "name": "@illia.kudria/confluence-api",
   "version": "1.4.0",
   "description": "Confluence API wrapper for NodeJS",
   "main": "./lib/confluence.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/johnpduane/confluence-api.git"
+    "url": "https://github.com/ilyhakudrya/confluence-api.git"
   },
   "keywords": [
     "atlassian",
@@ -18,7 +18,7 @@
     "wiki",
     "node.js"
   ],
-  "author": "John Duane <johnpduane@gmail.com>",
+  "author": "Illia Kudria <ilyhakudrya@gmail.com>",
   "contributors": [
     {
       "name": "John Duane",
