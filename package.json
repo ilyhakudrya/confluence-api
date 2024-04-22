@@ -1,6 +1,6 @@
 {
   "name": "@illia.kudria/confluence-api",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Confluence API wrapper for NodeJS",
   "main": "./lib/confluence.js",
   "scripts": {
